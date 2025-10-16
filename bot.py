@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
 # Берем токен из переменной окружения
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', 'ВАШ_ТОКЕН')
+TELEGRAM_TOKEN = os.getenv('8229212850:AAHZ_dpFeCSCSVJMlZxWGD1rJjxiHOV4Rgs', 'ВАШ_ТОКЕН')
 
 # Простая имитация тарифов
 def get_fake_taxi_prices(lat, lon):

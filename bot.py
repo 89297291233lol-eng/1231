@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 # === ВАЖНО ===
 # Перед загрузкой на Render или запуском локально замените строку ниже на ваш токен от BotFather:
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН_БОТА"
+TELEGRAM_TOKEN = "8229212850:AAHZ_dpFeCSCSVJMlZxWGD1rJjxiHOV4Rgs"
 
 ICON_PATHS = {
     "Эконом": "icons/econ.png",
